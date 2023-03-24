@@ -1,0 +1,14 @@
+.skills {
+  padding: 50px 0;
+}
+
+.skills__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 1010px) {
+  .skills__list {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,15 @@
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+
+.header__nav-link {
+  padding: 10px;
+  font-weight: bold;
+  color: #909090;
+}
+
+.header__nav-link--active {
+  color: black;
+}

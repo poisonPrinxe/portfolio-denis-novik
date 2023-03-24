@@ -1,0 +1,18 @@
+.contacts {
+  padding: 50px 0;
+}
+
+.contacts__link-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts__button {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 21px;
+  height: 42px;
+  text-align: middle center;
+  width: 180px;
+}
